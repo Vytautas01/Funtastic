@@ -1,2 +1,0 @@
-# Funtastic
-School project
